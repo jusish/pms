@@ -1,0 +1,6 @@
+opencv-python~=4.9.0.80
+ultralytics~=8.1.25
+pytesseract~=0.3.10
+pillow~=11.2.0
+pyserial~=3.5
+filelock~=3.18.0
